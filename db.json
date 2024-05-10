@@ -1,25 +1,39 @@
 {
-    "questions": [
+    "boardgame": [
         {
-            "content": "",
-            "answera": "",
-            "answerb": "",
-            "answerc": "",
-            "correct": 0
+            "name": "Wsiąść do Pociągu: Europa",
+            "minage": 8,
+            "minplayers": 2,
+            "maxplayers": 5,
+            "timeofgame": "60-90"
         },
         {
-            "content": "",
-            "answera": "",
-            "answerb": "",
-            "answerc": "",
-            "correct": 0
+            "name": "",
+            "minage": 0,
+            "minplayers": 0,
+            "maxplayers": 0,
+            "timeofgame": ""
         },
         {
-            "content": "",
-            "answera": "",
-            "answerb": "",
-            "answerc": "",
-            "correct": 0
+            "name": "Dobble",
+            "minage": 6,
+            "minplayers": 2,
+            "maxplayers": 8,
+            "timeofgame": "5-10"
+        },
+        {
+            "name": "Dixit",
+            "minage": 8,
+            "minplayers": 3,
+            "maxplayers": 8,
+            "timeofgame": "ok. 30"
+        },
+        {
+            "name": "Splendor",
+            "minage": 10,
+            "minplayers": 2,
+            "maxplayers": 4,
+            "timeofgame": "ok. 30"
         }
     ]
 }
